@@ -1,0 +1,1 @@
+Generally, it follows the encoder-decoder architecture of deep learning techniques. The encoder extracts features from images, while the decoder generates text sequences or captions for the images
